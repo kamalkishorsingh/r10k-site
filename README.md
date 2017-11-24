@@ -1,1 +1,2 @@
-# r10k-site
+# cicd-demo
+I'm a showcase of CI/CD.
