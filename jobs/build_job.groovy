@@ -554,7 +554,7 @@ nestedView('New-Rolling') {
 
 listView('Spring3HibernateApp_CI') {
                 jobs {
-                      names("Spring3HibernateApp_Stability","Spring3HibernateApp_Quality","Spring3HibernateApp_Coverage")
+                      names("Spring3HibernateApp_Code_Stability","Spring3HibernateApp_Code_Quality","Spring3HibernateApp_Code_Coverage")
                 }
                 columns {
                status()
